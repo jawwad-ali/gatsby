@@ -1,0 +1,19 @@
+.container {
+    background: blue;
+    text-align: center;
+    margin: 0px !important;
+}
+
+.linklist {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    height:50px;
+}
+
+.links {
+    color: #fafafa;
+    text-transform: uppercase;
+    text-decoration: none;
+}
